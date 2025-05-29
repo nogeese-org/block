@@ -1,0 +1,22 @@
+# =========================================
+# 🧠 Great Privacy / 👾 Telemetry / 🧹 Ad Blocking
+# Source: Local Pi-hole logs
+# Maintainer: leon8326
+# Last Updated: 2025-05-29
+# =========================================
+
+# 🧠 Mozilla Telemetry
+incoming.telemetry.mozilla.org
+
+# 👾 Google Firebase/Crashlytics
+crashlyticsreports-pa.googleapis.com
+firebaselogging-pa.googleapis.com
+
+# 👾 Amazon Echo / Alexa Metrics
+device-metrics-us.amazon.com
+
+# 👾 Avast / AVG Spyware & Telemetry
+ncc.avast.com
+analytics.avcdn.net
+analytics.ff.avast.com
+ip-info.ff.avast.com
