@@ -1,2 +1,2 @@
 # 🛡️ Klydra Blocks
-The Great Security Enchancements.
+The Great Security Enchancments.
